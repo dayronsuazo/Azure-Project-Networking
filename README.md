@@ -6,6 +6,7 @@ Objective
 The primary objective of this project is to set up a secure and interconnected virtual network in Azure, enabling seamless internal communication between virtual machines (VMs). This involves creating a virtual network, deploying VMs within the same network and subnet, configuring network security groups (NSGs) for secure communication and testing connectivity between the VMs.
 
 For example
+
 Job Specific Scenario - Setting Up a Private Development Environment
 
 I was tasked with creating a secure, isolated environment for developers to test and deploy their applications. The goal is to provide developers with two VMs where they can collaborate on application testing without exposing the environment to the public internet.
